@@ -1,0 +1,38 @@
+{
+    "aboutDevice" : {
+      "appVersion" : "11.6.6 Pro",
+      "chassisVersion" : "na",
+      "firmwareId" : "na",
+      "hardwareVersion" : "na",
+      "mlVersion" : "MLMain20210529_ILLUMINATEV2_CLAHE, MLMain20200801_FUNGUS_FEATUREEXTRACTION",
+      "serialNumber" : "na",
+      "simNumber" : "na"
+    },
+    "dynamicUserConfiguration" : {
+      "idPrefix" : "ADDEMO4_",
+      "userName" : "Field Test device"
+    },
+    "generalUserAnalytics" : {
+      "logEvents" : {
+        "2021-11-26--11-27-35" : "totalSessionStartCountIncremented"
+      },
+      "progressiveReportDownloadCount" : 0,
+      "progressiveReportShareCount" : 0,
+      "progressiveReportViewCount" : 1,
+      "reportDownloadCount" : 11,
+      "reportNotesSavedCount" : 0,
+      "reportSearchCount" : 0,
+      "reportShareCount" : 1,
+      "reportViewCount" : 27,
+      "totalPatientCount" : 3,
+      "totalSessionStartCount" : 26,
+      "totalVisitCount" : 7
+    },
+    "serviceThrottling" : {
+      "imagingLimit" : 500,
+      "isCloudImageBackupEnabled" : 1,
+      "isEventLogEnabled" : 0,
+      "isFungusImagingEnabled" : 0,
+      "isUserEligibleForImaging" : 1
+    }
+}
